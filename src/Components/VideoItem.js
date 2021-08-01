@@ -10,7 +10,7 @@ class VideoItem extends React.Component {
         <img
           className="ui image"
           src={vid.thumbnails.medium.url}
-          alt="thumbnail"
+          alt={vid.title}
         />
         <div className="content">
           <div className="header">{vid.title}</div>

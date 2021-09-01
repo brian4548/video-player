@@ -11,7 +11,6 @@ class SearchBar extends React.Component {
   };
   handleInputChange = (event) => {
     this.setState({ term: event.target.value });
-    //make sure we call callback from parent component 
   };
 
   render() {

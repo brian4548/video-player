@@ -1,16 +1,16 @@
-# Youtube player
+# Youtube player.
 
-Utilizes the youtube v3 api, Semantic-ui, axios, and hooks.
+Utilizes the YouTube v3 API, Semantic-ui, Axios, and Hooks.
 
 <img src="https://i.imgur.com/RdaLecM.png" />
 
-## How to use
+## How to use.
 
 https://video-player-rmnb8owyc-brian4548.vercel.app/
 
-Click link above -> Type what you want to search -> Hit enter -> Play video or click videos on the side bar to play that.
+Click the link above -> Type what you want to search -> Hit enter -> Play video or click videos on the side bar to play that.
 
-## cominc soon:
+## coming soon:
 
 * Sign-in
 * UI changes
